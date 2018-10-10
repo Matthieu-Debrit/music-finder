@@ -1,7 +1,7 @@
 # Music Finder
 
-School projet
-A website allowing users to search any album and track list and bookmark their favorite album using [Last.fm](https://www.last.fm/) API
+School projet<br />
+A website allowing users to search any album and their track list, and bookmark their favorite album, using [Last.fm](https://www.last.fm/) API
 
 ![Alt text](img/MusicFinder.png?raw=true "MusicFinder")
 
